@@ -1,7 +1,7 @@
 # Flutter Onboarding Screen
 
 Onboarding Screen 1 | Onboarding Screen 2 | Onboarding Screen 3
------------- | -------------
+------------ | -------------|--------------
 ![Onboarding1](https://github.com/suraj2304/onboarding_1/blob/master/onboarding1.png) | ![Onboarding1](https://github.com/suraj2304/onboarding_1/blob/master/onboarding2.png) | ![Onboarding1](https://github.com/suraj2304/onboarding_1/blob/master/onboarding3.png)
 
 ## Getting Started
