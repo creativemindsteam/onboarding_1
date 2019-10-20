@@ -1,4 +1,4 @@
-# onboarding_1
+# Flutter Onboarding Screen
 
 A new Flutter application.
 
